@@ -19,3 +19,9 @@ Using Yarn:
   `$ npm install`
 
   `$ npm run start`
+
+### RESUME
+
+The following are notes coming from some articles I have just read.
+
+[Modular CSS naming conventions](http://thesassway.com/advanced/modular-css-naming-conventions)
